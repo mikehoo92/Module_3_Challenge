@@ -30,3 +30,11 @@ from pathlib import Path
 ## Contributors
 
 Michael Husary was the main contributer along with fellow classmates and the educational staff. 
+
+--- 
+
+## License
+*(Not sure if a license was required on this Challenge)*
+
+
+MIT
