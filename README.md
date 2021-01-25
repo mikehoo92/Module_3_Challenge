@@ -9,9 +9,9 @@ This notebook will provide traders and consumers with a broad overview of the pr
 
 This project uses a Jupyter Notebook in Jupyter Lab with the following libraries:
 
-Pandas - to help with the robust amount of features that will help analyze and organize the data.
-pathlib - to extract the data from the CSV file using the file path.
-%matplotlib inline - for plotting the dataframes to conduct a visual analysis.
+- Pandas - to help with the robust amount of features that will help analyze and organize the data.
+- pathlib - to extract the data from the CSV file using the file path.
+- %matplotlib inline - for plotting the dataframes to conduct a visual analysis.
 
 --- 
 
